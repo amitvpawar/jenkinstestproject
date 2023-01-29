@@ -4,3 +4,4 @@ echo "This is test file for this project" > test.txt
 ls
 cat test.txt
 echo "Second commit"
+echo "Third commit"
